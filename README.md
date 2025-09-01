@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/dejanmltc)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dejanmltc?theme=dark&ext=heatmap)
